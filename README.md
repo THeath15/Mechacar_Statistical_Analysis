@@ -15,9 +15,7 @@ To get the the linear regression, R Script was applied to get coefficients below
 
 
   1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-    The 2 statiscally significant variables and coefficient result showing 0 < .05 are **vehicle length**: 0 < .05 and **ground clearance** variables which  represent non-random amounts of variance as applied to the mpg values.
-    
-    Coefficients for  vehicle weight, spoiler angle, AWD are not statistically significant, and has random amout of variance 
+    The 2 statiscally significant variables and coefficient result showing 0 < .05 are **vehicle length**: 0 < .05 and **ground clearance** variables which  represent non-random amounts of variance as applied to the mpg valuess. Coefficients for  vehicle weight, spoiler angle, AWD are not statistically significant, and has random amout of variance 
 
   2. Is the slope of the linear model considered to be zero? Why or why not?
     All of the slopes of the variables are shown to be non-zero even though some are close to zero
