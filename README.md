@@ -10,8 +10,9 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 # Deliverable 1 :Linear Regression to Predict MPG - Written Summary:
 
-To get the the linear regression, R Script was applied to get coefficients below as shown o below screenshot.  
-![Linear Regression Summary](https://user-images.githubusercontent.com/92903447/153779028-05ea75ad-05cc-4c24-9fe4-70b5a128c2c0.png)
+To get the the linear regression, R Script was applied to get ![Linear Regression Summary](https://user-images.githubusercontent.com/92903447/153779638-499405a2-0a07-459c-87a5-18c09004776e.png)
+coefficients below as shown o below screenshot.  
+
 
 
   1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -23,7 +24,7 @@ To get the the linear regression, R Script was applied to get coefficients below
     All of the slopes of the variables are shown to be non-zero even though some are close to zero
  
   3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-  Even though the datasets R-squared shows a strong correlationn o .71 There may be other variables not included in the dataset contributing to the variation in the mpg.
+  Even though the datasets R-squared shows a strong correlationn o .71 There could be other variables not included in the dataset contributing to the variation in the mpg.
 
 
 # Deliverable 2 :Summary Statistics on Suspension Coils - Written Summary:
