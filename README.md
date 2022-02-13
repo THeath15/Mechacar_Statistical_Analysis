@@ -10,13 +10,20 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 # Deliverable 1 :Linear Regression to Predict MPG - Written Summary:
 
-![Linear Regression Summary](https://user-images.githubusercontent.com/92903447/153776287-c38fbec5-c5e5-43ff-8f4d-3a81fcdec951.png)
+To get the the linear regression, R Script was applied to get coefficients below as shown o below screenshot.  
+![Linear Regression Summary](https://user-images.githubusercontent.com/92903447/153779028-05ea75ad-05cc-4c24-9fe4-70b5a128c2c0.png)
+
 
   1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+    The 2 statiscally significant variables and coefficient result showing 0 < .05 are **vehicle length**: 0 < .05 and **ground clearance** variables which  represent non-random amounts of variance as applied to the mpg values.
+    
+    Coefficients for  vehicle weight, spoiler angle, AWD are not statistically significant, and has random amout of variance 
 
   2. Is the slope of the linear model considered to be zero? Why or why not?
+    All of the slopes of the variables are shown to be non-zero even though some are close to zero
  
   3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  Even though the datasets R-squared shows a strong correlationn o .71 There may be other variables not included in the dataset contributing to the variation in the mpg.
 
 
 # Deliverable 2 :Summary Statistics on Suspension Coils - Written Summary:
