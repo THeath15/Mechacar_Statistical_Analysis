@@ -63,8 +63,16 @@ T-test for the suspension coils for Lot 2 shows that they are not statistically 
 ![lot_2_t_test](https://user-images.githubusercontent.com/92903447/154818641-511b71cb-e572-41b5-bef5-d726be32f5d2.png)
 
 **T-test for lot3**
-T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis. This lot need to be evaluated further.
+T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough  for us to reject the null hypothesis. This lot need to be evaluated further.
 ![lot3_t_test](https://user-images.githubusercontent.com/92903447/154818643-8d1500f4-edbc-4a58-98ff-634d236af8b2.png)
 
 
 # Deliverable 4 :Study Comparing the MechaCar to the Competition
+There are different  metics  that consumers take into consideration when evaluating a car to purchase which would include city and highway  fuel efficiency, car type, safety rating, cost and maintenance cost amongs others.  However, most consumer  are likely looking to buy a car that is an economical means to regularly transport themselves in the most convenient way.
+  1. Metrics to test - vehicle capacity and safety rating   should be evaluated  in comparison to other competitor vehicles
+  2. Null or Alternative Hypothesis - Vehicle capacity is similar to other vehcicles  and/or  safety ratning should be zero. Alternative hypothesis for average capacity is above carrying capacity and mean for safety rating is not zero.
+  3. Statistical Test to use -  Using mutiple linear regression would show the significant safety ratings and/or 2 samplte t-test would show good comparison between Mechar and their competitors
+  4. Data needed - data collection sample  of carrying capacity compartments, safety ratings, fuel efficiency  for Mechacar and their competitors
+
+
+
