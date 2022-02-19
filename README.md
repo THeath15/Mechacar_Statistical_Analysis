@@ -49,4 +49,22 @@ The design specifications for the Mechacar should have a variance of suspension 
 
 # Deliverable 3 :T-Tests on Suspension Coils  - Written Summary:
 
+**T-test for all manufacturing lots**
+Below T-test run for suspension coils for all manufacturing lot shows that they are not statistically different from popular mean and the means fails withing the 9
+5 percent confidence interval. 
+![Samplte t_test for all manufacturing lots](https://user-images.githubusercontent.com/92903447/154818640-5ea286b8-6a3b-4aeb-b659-3c84d47a9540.png)
+
+**T-test for lot1**
+ T-test for the suspension coils for Lot 1 shows that they are not statistically different from the population mean, and the p-value is not low enough (1) for us to reject the null hypothesis
+![Lot1_t_test](https://user-images.githubusercontent.com/92903447/154818642-4a6e0d2d-b753-4429-b11d-03bdd7963f6d.png)
+
+**T-test for lot2**
+T-test for the suspension coils for Lot 2 shows that they are not statistically different from the population mean, and the p-value is not low enough (0.6072) for us to reject the null hypothesis
+![lot_2_t_test](https://user-images.githubusercontent.com/92903447/154818641-511b71cb-e572-41b5-bef5-d726be32f5d2.png)
+
+**T-test for lot3**
+T-test for the suspension coils for Lot 3 shows that they are slightly statistically different from the population mean, and the p-value is just low enough (0.0417) for us to reject the null hypothesis. This lot need to be evaluated further.
+![lot3_t_test](https://user-images.githubusercontent.com/92903447/154818643-8d1500f4-edbc-4a58-98ff-634d236af8b2.png)
+
+
 # Deliverable 4 :Study Comparing the MechaCar to the Competition
