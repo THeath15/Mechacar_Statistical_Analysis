@@ -31,8 +31,9 @@ To get the the linear regression, R Script was applied to get coefficients below
 ![Suspension_Coil Dataframe](https://user-images.githubusercontent.com/92903447/154816760-0e0dcb14-45d8-4510-93ca-ebe4b5e4bbbb.png)
 
 
-**The following PSI metrics for each lot: mean, median, variance, and standard deviation
-**Below table shows the summary statistics of all of the manufacturing lots**
+**PSI metrics for each lot: mean, median, variance, and standard deviation**
+
+**Below low table shows the summary statistics of all of the manufacturing lots**
 
 ![Total_summary(suspension_coil](https://user-images.githubusercontent.com/92903447/154816758-de3c35a5-d5f6-445b-89c1-a10f852a3adc.png)
 
